@@ -1,4 +1,4 @@
-# DATA SCRAPIN
+# DATA SCRAPING
 
 
 ## Install package
