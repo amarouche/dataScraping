@@ -43,5 +43,7 @@ Options:
 ## Run script examples
 
 Run `node index.js findById -json 3286`
+
 Run `node index.js findById -json -sync 3286`
+
 Run `node index.js findALL -json -sync`
